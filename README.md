@@ -1,16 +1,27 @@
-### Hi there 👋
+<div align=center>
+    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Welcome+To+My+Profile+!" alt="Headline" />
+</div>
 
-<!--
-**Pr3DaSniP/Pr3DaSniP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 👨🏻‍💻 About Me
 
-Here are some ideas to get you started:
+- 🎓 I'm a student in computer science at the University of Haute Alsace
+- 🌱 I’m currently learning C++, Java and some web stuff
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🤝🏻 Reach Me
+
+<div align=center>
+    <a href="https://www.linkedin.com/in/valentin-geiller-799209202/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="mailto:geiller.valentin@free.fr">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+</div>
+
+#### 📈 My GitHub Stats
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pr3dasnip&theme=dracula" />
+
+#### 🏆 My GitHub Trophies
+
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=pr3dasnip&rank=-Unknown&row=2&column=4&theme=dracula" />
