@@ -18,9 +18,9 @@
     </a>
 </div>
 
-#### 📈 My GitHub Stats & 🏆 My GitHub Trophies
+#### 📈 My GitHub Stats & My GitHub Trophies 🏆
 
-<div align=center>
+<div align=center style="display: flex; flex-direction: row; justify-content: space-between; align-items: center; width: 100%;">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pr3dasnip&theme=dracula"/>
     <img align="center" src="https://github-profile-trophy.vercel.app/?username=pr3dasnip&rank=-Unknown&row=2&column=4&theme=dracula" />
 </div>
