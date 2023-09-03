@@ -9,7 +9,7 @@
 
 #### 🤝🏻 Reach Me
 
-<div align=center>
+<div align=left>
     <a href="https://www.linkedin.com/in/valentin-geiller-799209202/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
@@ -18,10 +18,9 @@
     </a>
 </div>
 
-#### 📈 My GitHub Stats
+#### 📈 My GitHub Stats & 🏆 My GitHub Trophies
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pr3dasnip&theme=dracula" />
-
-#### 🏆 My GitHub Trophies
-
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=pr3dasnip&rank=-Unknown&row=2&column=4&theme=dracula" />
+<div align=center>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pr3dasnip&theme=dracula"/>
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=pr3dasnip&rank=-Unknown&row=2&column=4&theme=dracula" />
+</div>
