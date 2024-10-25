@@ -6,7 +6,7 @@
 
 #### 👨🏻‍💻 About Me
 
-- 🎓 I'm a student in computer science at the University of Haute Alsace
+- 🎓 I have a master's degree in computer science from the University of Haute Alsace.
 - 🌱 I’m currently learning C++, Java and some web stuff
 
 #### Languages and Tools
