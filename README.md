@@ -82,7 +82,3 @@
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
 </div>
-
-#### 📈 My GitHub Stats & My GitHub Trophies 🏆
-
-<img width="400" height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pr3dasnip&theme=dracula&layout=compact" /> <img width="400" height="220" align="center" src="https://github-profile-trophy.vercel.app/?username=pr3dasnip&rank=-Unknown&row=2&column=4&theme=dracula" />
